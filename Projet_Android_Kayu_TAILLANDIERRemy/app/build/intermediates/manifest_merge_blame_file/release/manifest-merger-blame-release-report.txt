@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:5:5-65
+11-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:6:5-60
+13-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:6:19-57
+14
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:7:5-76
+15-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:7:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:8:5-79
+16-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:8:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:9:5-67
+17-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:9:22-64
+18
+19    <application
+19-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:11:5-40:19
+20        android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.singleton.SingletonAllNutrimentsWhichExistInOPF"
+20-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:12:9-133
+21        android:allowBackup="true"
+21-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:14:9-35
+22        android:hardwareAccelerated="true"
+22-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:13:9-43
+23        android:icon="@mipmap/logo_kayu"
+23-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:15:9-41
+24        android:label="@string/app_name"
+24-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:16:9-41
+25        android:supportsRtl="true"
+25-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:17:9-35
+26        android:theme="@style/AppTheme" >
+26-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:18:9-40
+27        <activity
+27-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:19:9-25:20
+28            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.MainActivity"
+28-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:19:19-119
+29            android:screenOrientation="portrait" >
+29-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:19:120-156
+30            <intent-filter>
+30-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:21:17-69
+31-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:17-77
+33-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:26:9-30:20
+37            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.ScanActivity"
+37-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:26:19-119
+38            android:screenOrientation="portrait" >
+38-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:26:120-156
+39            <intent-filter>
+39-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:27:13-29:29
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:17-77
+40-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:31:9-35:20
+44            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.ResultActivity"
+44-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:31:19-121
+45            android:screenOrientation="portrait" >
+45-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:31:122-158
+46            <intent-filter>
+46-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:27:13-29:29
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:17-77
+47-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:23:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:36:9-39:38
+52            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.contentproviders.ContentProviderProductScanne"
+52-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:38:13-135
+53            android:authorities="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.contentproviders.ContentProviderProductScanne"
+53-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:37:13-142
+54            android:exported="true" />
+54-->/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/AndroidManifest.xml:39:13-36
+55    </application>
+56
+57</manifest>

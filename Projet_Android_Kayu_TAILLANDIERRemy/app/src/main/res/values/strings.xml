@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projet_Android_KAYU</string>
+    <string name="btnScan">Scanner le code-barres</string>
+    <string name="torchlight">Activer la lampe torche</string>
+    <string name="problemLight">Veuillez allumer la torche du téléphone si vous essayez de scanner le code-barre dans un endroit sombre.</string>
+    <string name="saisieManuelleCodeBarre">Saisissez votre code-barre :</string>
+    <string name="btnValiderSaisieCodeBarre">Valider</string>
+    <string name="store">Magasins</string>
+    <string name="ingredient">Ingrédients</string>
+    <string name="nutriment">Nutriments</string>
+    <string name="btnView">Voir</string>
+    <string name="historique">Historique des produits scannés</string>
+    <string name="nutriScore">Nutri-score : </string>
+</resources>

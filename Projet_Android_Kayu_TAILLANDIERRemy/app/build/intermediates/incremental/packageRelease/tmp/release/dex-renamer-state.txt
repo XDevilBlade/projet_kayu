@@ -1,0 +1,4 @@
+#Wed Jan 29 16:31:40 CET 2020
+base.0=/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

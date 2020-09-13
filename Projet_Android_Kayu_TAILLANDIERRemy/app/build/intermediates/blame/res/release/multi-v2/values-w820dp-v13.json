@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Home/VersionFinaleRenduAndroid280120202/Projet_Android_Kayu_TAILLANDIERRemy_DUARTEJeremi/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

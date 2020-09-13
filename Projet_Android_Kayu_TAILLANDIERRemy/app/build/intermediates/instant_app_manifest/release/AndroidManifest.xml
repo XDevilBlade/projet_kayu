@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.singleton.SingletonAllNutrimentsWhichExistInOPF"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/logo_kayu"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.ScanActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.activities.ResultActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.contentproviders.ContentProviderProductScanne"
+            android:authorities="fr.univpau.projet_android_kayu_taillandier_remy_duarte_jeremi.contentproviders.ContentProviderProductScanne"
+            android:exported="true" />
+    </application>
+
+</manifest>
