@@ -6,8 +6,8 @@ posséder au minimum deux fonctionnalités indispensables qui sont :
 * scanner un code barre au format EAN-13
 * afficher les informations du produit scanné (nutri-score, les ingrédients, les nutriments, le nom du produit, dans quels magasins on peut le trouver, etc)
 
-KAYU aura à sa disposition une base de données embarquée SQLite qui va stocker les informations des produits scannées. Par conséquent, un historique 
-des produits scannés par l'utilisateur devra être visible dans l'application.
+KAYU aura à sa disposition une base de données embarquée SQLite qui va stocker les informations des produits scannées. Donc, un historique 
+des produits scannés devra être visible dans l'application.
 
 Dès que l'utilisateur a scanné un produit, l'application devra aller requêter l'API d'Open Food Facts pour récupérer les informations du produit.
 
