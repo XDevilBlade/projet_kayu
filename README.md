@@ -1,5 +1,7 @@
 # projet_kayu
 
+Lien pour télécharger le fichier d'installation : <a href="https://drive.google.com/file/d/1fn6Zq60gCINYtryhggMWP8Mb85Udhljo/view?usp=sharing">apk</a>
+
 ## Context du projet :
 Créer une application mobile qui doit fonctionner au minimum sur Android 4. Cette application s'appelle "KAYU". Elle doit, comme le permet l'application mobile "YUKA", 
 posséder au minimum deux fonctionnalités indispensables qui sont :
@@ -35,6 +37,8 @@ Donc, lorsque vous accéderez à l'interface pour scanner votre code barre, vous
 <img src="Images_KAYU/popup_permission_camera.jpg" width="200">
 
 Pour pouvoir activer les droits, soit vous allez dans les paramètres du téléphone ou vous fermez l'application avec le bouton "back" et la relancer pour pouvoir avoir de nouveau la pop-up.
+
+Remarques : dans le apk que vous pouvez télécharger avec le lien qui se trouve au début du Readme, il y aura dans la pop-up une faute d'orthographe sur le mot "donné" parce que je l'avais écrit avec "er" sans faire attention et vu que je n'ai pas encore regénéré le fichier apk, il y aura la faute d'orthographe)
 
 * sinon vous aurez cet affichage :
   - avec un historique vide :
