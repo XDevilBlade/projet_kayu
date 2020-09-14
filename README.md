@@ -32,4 +32,44 @@ Voici les différents messages que vous aurez pendant son installation :
 
 Donc, lorsque vous accéderez à l'interface pour scanner votre code barre, vous aurez cette affichage :
 
+<img src="Images_KAYU/popup_permission_camera.jpg" width="200">
 
+Pour pouvoir activer les droits, soit vous allez dans les paramètres du téléphone ou vous fermez l'application avec le bouton "back" et la relancer pour pouvoir avoir de nouveau la pop-up.
+
+* sinon vous aurez cet affichage :
+  - avec un historique vide :
+  
+  <img src="Images_KAYU/accueil_sans_produits_scannes.jpg" width="200">
+  
+  - avec un historique remplit : 
+  <img src="Images_KAYU/historique.jpg" width="200">
+  
+### Interface qui permet de scanner un code barre :
+* sans la pop-up qui permet de saisir à la main le code barre :
+
+  <img src="Images_KAYU/camera.jpg" width="200">
+  
+* si vous n'avez pas réussi à scanner votre code barre au bout de 6 sec il affichera la pop-up :
+
+  <img src="Images_KAYU/popup.jpg" width="200">
+  
+### Interface qui affiche les informations du produit scanné :
+* soit le produit n'existe pas dans la base de données d'Open Food Facts :
+
+  <img src="Images_KAYU/produit_inconnu.jpg" width="200">
+
+* sinon il affiche les informations du produits :
+
+  <img src="Images_KAYU/infos_produit.jpg" width="200">
+  
+  - l'affichage des nutriments :
+  
+  <img src="Images_KAYU/nutriments.jpg" width="200">
+  
+  - etc ...
+  
+ ### Remarque :
+ Si à un moment donné, l'application a besoin d'internet, il vous affichera cette pop-up :
+ 
+ <img src="Images_KAYU/popup_internet_accueil.jpg" width="200">
+ 
