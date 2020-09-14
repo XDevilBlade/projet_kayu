@@ -1,6 +1,6 @@
 # projet_kayu
 
-## Contexte du projet :
+## Context du projet :
 Créer une application mobile qui doit fonctionner au minimum sur Android 4. Cette application s'appelle "KAYU". Elle doit, comme le permet l'application mobile "YUKA", 
 posséder au minimum deux fonctionnalités indispensables qui sont :
 * scanner un code barre au format EAN-13
