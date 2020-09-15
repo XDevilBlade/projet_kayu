@@ -38,7 +38,7 @@ Donc, lorsque vous accéderez à l'interface pour scanner votre code barre, vous
 
 Pour pouvoir activer les droits, soit vous allez dans les paramètres du téléphone ou vous fermez l'application avec le bouton "back" et la relancer pour pouvoir avoir de nouveau la pop-up.
 
-Remarques : dans le apk que vous pouvez télécharger avec le lien qui se trouve au début du Readme, il y aura dans la pop-up une faute d'orthographe sur le mot "donné" parce que je l'avais écrit avec "er" sans faire attention et vu que je n'ai pas encore regénéré le fichier apk, il y aura la faute d'orthographe)
+Remarques : dans le apk que vous pouvez télécharger avec le lien qui se trouve au début du Readme, il y aura dans la pop-up une faute d'orthographe sur le mot "donné" parce que je l'avais écrit avec "er" sans faire attention et vu que je n'ai pas encore regénéré le fichier apk, il y aura la faute d'orthographe.
 
 * sinon vous aurez cet affichage :
   - avec un historique vide :
