@@ -45,7 +45,7 @@ Remarques : dans le apk que vous pouvez télécharger avec le lien qui se trouve
   
   <img src="Images_KAYU/accueil_sans_produits_scannes.jpg" width="200">
   
-  - avec un historique remplit : 
+  - avec un historique rempli : 
   <img src="Images_KAYU/historique.jpg" width="200">
   
 ### Interface qui permet de scanner un code barre :
@@ -62,7 +62,7 @@ Remarques : dans le apk que vous pouvez télécharger avec le lien qui se trouve
 
   <img src="Images_KAYU/produit_inconnu.jpg" width="200">
 
-* sinon il affiche les informations du produits :
+* sinon il affiche les informations du produit :
 
   <img src="Images_KAYU/infos_produit.jpg" width="200">
   
