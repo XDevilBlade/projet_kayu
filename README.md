@@ -19,7 +19,7 @@ Dès que l'utilisateur a scanné un produit, l'application devra aller requêter
 * SQLite
 * Languages de programmation utilisés : JAVA
 
-## Des screenshoots de l'application :
+## Des screenshots de l'application :
 ### Installation de l'application :
 * lorsque vous allez installer l'application, des messages de "Play Protect" vont apparaitre à l'écran, vous devrez les ignorer. En effet, "Play Protect" va vous demander si vous voulez quand même installer l'appli à cause du fait que mon appli n'a pas été signé avec la signature d'application "Google Play". 
 
